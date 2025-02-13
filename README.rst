@@ -1,6 +1,11 @@
 SimProvWeb
 ==========
 
+This repository contains all the necessary files for the SimProv webinterface.
+
+The complete quickstart guide for SimProv can be found under https://simprov.readthedocs.io/en/latest/user/quickstart.html.
+
+
 Features
 --------
 - User-friendly web interface for exploring the captured provenance graph, enabling researchers to visualize and analyze the history of their simulation studies.
